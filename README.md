@@ -38,4 +38,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ###### ✨👦🏿 About Me
 
-Hi There! I'm **Olusesi A, Majekodunmi**, also known as **Bulldozer**. I'm a data architect with RiseBraodband and a passionate data geek on a misison to share my knowledge and help others grow!
+Hi There! I'm **Olusesi A, Majekodunmi**, also known as **Bulldozer**. I'm a data architect with RiseBroadband Wireless and a passionate data geek on a misison to share my knowledge and help others grow!
