@@ -39,7 +39,8 @@ For more details, refer to docs/requirements.md.
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: 
 
 
-![image](https://github.com/user-attachments/assets/03e8fd5e-27a2-47a9-a425-1ad37d31256a)
+![image](https://github.com/user-attachments/assets/24f4eab4-0aaa-4450-be3a-3e520e3d9cc0)
+
 
 ```plaintext
 Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
