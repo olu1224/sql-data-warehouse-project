@@ -82,4 +82,4 @@ data-warehouse-project/
 
 ###### ✨👦🏿 About Me
 
-Hi There! I'm **Olusesi A, Majekodunmi**, also known as **Bulldozer**. I'm a data architect with RiseBroadband Wireless and a passionate data geek on a mission to share my knowledge and help others grow!
+Hi There! I'm **Olusesi A, Majekodunmi**, also known as **Bulldozer**. I'm a data architect and a passionate data geek on a mission to share my knowledge and help others grow!
