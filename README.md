@@ -39,7 +39,7 @@ For more details, refer to docs/requirements.md.
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: 
 
 
-![image](https://github.com/user-attachments/assets/24f4eab4-0aaa-4450-be3a-3e520e3d9cc0)
+![image](https://github.com/user-attachments/assets/03f72821-73ad-4c1e-a8b1-b1bf7f4b2425)
 
 
 ```plaintext
