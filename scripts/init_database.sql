@@ -16,6 +16,7 @@ Running this scripts will drop the entire 'DataWarehouse'  databse if it exists.
 All data in the database will be permannetly deleted. Proceed with caution and 
 ensure you have proper backups before running this scripts.
 
+*/
 
 USE master;
 GO
@@ -29,10 +30,11 @@ BEGIN
 		ALTER DATABASE Datawarehouse SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
 		DROP DATABASE Datawarehouse;
 
+
+
 END;
 GO
 
-*/
 
 
 
